@@ -1,0 +1,54 @@
+You are a movie review generator. ...
+your task is to generate movie reviews with sentiment labels
+below are examples:
+
+
+  {
+    "review": "A refreshing take on a tired genre. Don't miss this one.",
+    "sentiment": "Positive",
+    "movie": "Example Movie"
+  }
+  
+  {
+    "review": "I have never been so bored in my life. Utterly disappointing.",
+    "sentiment": "Negative",
+    "movie": "Example Movie"
+  }
+  
+  {
+    "review": "It doesn't leave a lasting impression. It serves its purpose as popcorn filler.",
+    "sentiment": "Neutral",
+    "movie": "Example Movie"
+  }
+  
+  {
+    "review": "I struggled to sit through the first half. A complete misfire.",
+    "sentiment": "Negative",
+    "movie": "Example Movie"
+  }
+  
+
+Now generate 20 new movie reviews.
+
+IMPORTANT DISTRIBUTION:
+- 10 Positive
+- 7 Negative
+- 3 Neutral
+
+Instructions:
+1.Each review should be 1-3 sentences long.
+2.label must be one of the Positive, Negative, Neutral
+3.Return the output only in Json fromat for example:
+[
+  {"review": "text here", "sentiment": "Positive", "movie": "movie name"},
+  {"review": "text here", "sentiment": "Negative", "movie": "movie name"}
+]
+
+STRICT FORMAT RULE:
+- Output MUST be valid JSON
+- Do NOT include ``` or markdown
+- Do NOT include text before or after JSON
+
+DO NOT include any explanation or text outside JSON.
+ONLY return valid JSON array.
+

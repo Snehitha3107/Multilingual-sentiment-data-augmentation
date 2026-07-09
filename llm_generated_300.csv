@@ -1,0 +1,301 @@
+review,sentiment,movie,confidence,predicted,mismatch
+A visual masterpiece with a compelling story. Highly recommend!,Positive,Aurora Rising,0.4469857180829045,Positive,False
+"The acting was superb, and the plot kept me guessing until the very end.",Positive,The Silent Echo,0.36548989007949423,Neutral,True
+"An instant classic! The direction, the score, everything was perfect.",Positive,Crimson Tides,0.4297723847222428,Negative,True
+A heartwarming story that will leave you feeling uplifted and inspired.,Positive,Beneath the Stars,0.49306480499540317,Neutral,True
+"Finally, a superhero movie with depth and originality! A must-see.",Positive,Celestial Guard,0.5571039817788638,Positive,False
+I was on the edge of my seat the entire time! A thrilling ride from start to finish.,Positive,Velocity,0.5074598530169666,Positive,False
+The chemistry between the leads was undeniable. A truly enchanting romance.,Positive,Whispers of the Heart,0.3624367337290059,Positive,False
+A thought-provoking film that will stay with you long after the credits roll.,Positive,The Labyrinth of Dreams,0.42944777390350536,Neutral,True
+Stunning visuals and a gripping narrative make this a cinematic triumph.,Positive,Echoes of Tomorrow,0.5106399579850212,Positive,False
+Absolutely brilliant! A perfect blend of humor and heart.,Positive,The Accidental Hero,0.4870604711905649,Positive,False
+The plot was convoluted and difficult to follow. I left feeling confused.,Negative,The Tangled Web,0.5340311494240471,Neutral,True
+Terrible acting and a predictable storyline make this a complete waste of time.,Negative,Forgotten Legacy,0.5416700453876132,Negative,False
+I couldn't even finish it. The dialogue was atrocious and the pacing was awful.,Negative,The Obsidian Mirror,0.3423426050374973,Positive,True
+A disappointing sequel that fails to live up to the original. Skip this one.,Negative,Shadows Return,0.4019453508628446,Negative,False
+"The special effects were laughably bad, and the story made no sense.",Negative,Phantom Menace 2.0,0.4129850016212074,Positive,True
+A slow and tedious film with no redeeming qualities. I regret watching it.,Negative,The Silent Void,0.42033470851695437,Neutral,True
+The movie was trying to be something that is not. A complete mess.,Negative,Poseidon's Fury,0.43831284595183173,Negative,False
+"The movie was ok, nothing to celebrate but nothing to complain about.",Neutral,Vanilla Sky 2,0.4585936371077732,Positive,True
+"It's watchable, but ultimately forgettable. A decent way to pass the time.",Neutral,The Grey Area,0.3999162408202007,Neutral,False
+It's neither great nor terrible. Just a very average movie.,Neutral,Half Moon,0.5046686566426889,Neutral,False
+A visual masterpiece! The cinematography alone is worth the price of admission. Highly recommended.,Positive,Aurora Rising,0.5842689207337493,Positive,False
+What a waste of time and resources. The plot was convoluted and the acting was subpar.,Negative,Crimson Tide 2,0.4053542482169741,Negative,False
+"Enjoyable enough, but ultimately forgettable. A decent way to kill a couple of hours.",Neutral,Echo Chamber,0.46103816120675434,Neutral,False
+"Absolutely brilliant! The performances were captivating, and the story was incredibly moving.",Positive,Final Frontier,0.4779369954483706,Neutral,True
+I was on the edge of my seat the entire time! A thrilling and suspenseful ride from start to finish.,Positive,Ghost Protocol,0.5074598530169666,Positive,False
+"The acting was wooden, and the dialogue was cringeworthy. Avoid at all costs.",Negative,Hidden Agenda,0.509938239092284,Negative,False
+"Not terrible, but not great either. It just exists.",Neutral,Infinite Loop,0.595920393666443,Neutral,False
+A truly heartwarming and inspiring film. Prepare to be uplifted.,Positive,Jade Dreams,0.40709036429120987,Neutral,True
+So predictable and boring. I knew exactly what was going to happen every step of the way.,Negative,Killing Time,0.4174252505746043,Positive,True
+A modern classic! The kind of movie that stays with you long after the credits roll.,Positive,Lunar Landing,0.4585936371077732,Positive,False
+"I laughed, I cried, I cheered! This movie has it all. A must-see!",Positive,Midnight Bloom,0.4585936371077732,Positive,False
+"Utterly incomprehensible. The plot made no sense, and the characters were unlikeable.",Negative,Nebula Nexus,0.3807240746702858,Negative,False
+"A perfectly acceptable movie. Nothing special, but not bad.",Neutral,Ocean's Depth,0.40765135058005075,Positive,True
+One of the best movies I've seen in years! A true cinematic achievement.,Positive,Parallel Universes,0.3655415391852391,Neutral,True
+"Terrible script, terrible acting, terrible everything. This movie is an insult to cinema.",Negative,Quantum Entanglement,0.3824969629013195,Neutral,True
+A surprisingly good film! I went in with low expectations and was blown away.,Positive,Redemption Road,0.4152177386207094,Neutral,True
+The characters were poorly developed and the plot was all over the place.,Negative,Silent Scream,0.4046458299364231,Negative,False
+"Visually stunning, but the story falls flat. The special effects cannot save it.",Negative,Techno Titans,0.4547589444021912,Neutral,True
+A triumph of storytelling! A feel-good movie that will leave you smiling.,Positive,Under the Stars,0.4610814917046176,Neutral,True
+I wanted to walk out halfway through. This movie should never have been made.,Negative,Void Walker,0.37964597759110147,Negative,False
+"A cinematic masterpiece! The acting, the story, everything was perfect.",Positive,Stellar Voyage,0.42552903437141726,Neutral,True
+The plot was convoluted and the characters were underdeveloped. Avoid at all costs.,Negative,Maze of Shadows,0.5171244096342378,Negative,False
+"It's an okay movie. Nothing special, but not terrible either.",Neutral,Average Joe's Adventure,0.45615220496079883,Neutral,False
+Absolutely stunning visuals and a heartwarming story. A must-see!,Positive,Whispers of the Wind,0.445254165164485,Neutral,True
+One of the worst films I've ever seen. The script was atrocious and the acting was even worse.,Negative,The Darkening,0.41622346633212814,Negative,False
+A surprisingly good film! I went in with low expectations and was blown away.,Positive,Unexpected Treasure,0.4152177386207094,Neutral,True
+The movie was a complete waste of time. I regret spending money on it.,Negative,Forgotten Realms,0.5253976014017441,Negative,False
+"A mediocre film that's easily forgettable. It's watchable, but nothing more.",Neutral,Suburban Life,0.5058418419584643,Neutral,False
+A true work of art! The director's vision is clear and the execution is flawless.,Positive,Eternal Echoes,0.4709077459629201,Neutral,True
+I couldn't even finish watching it. It was so bad!,Negative,Crimson Tide 2,0.35549729334845837,Positive,True
+An amazing film that will stay with you long after you've seen it.,Positive,The Last Sunrise,0.37373969303134574,Neutral,True
+This movie is a triumph! A great time at the theater.,Positive,Triumph,0.465490299462036,Positive,False
+"Don't bother, you've seen it all before. Very bland and uninspired.",Negative,Rehash,0.4016484368246916,Negative,False
+One of the best movies of the year!,Positive,The Best of the Year,0.4305694584039604,Neutral,True
+I recommend this one. I would see it again.,Positive,See It Again,0.3672253091474785,Negative,True
+"A bit slow, but still enjoyable. Good for a rainy day.",Neutral,Rainy Day,0.5090285747781196,Neutral,False
+Total garbage. I want my money back.,Negative,Garbage Film,0.5847065540333829,Negative,False
+"The plot was predictable, but the acting was solid.",Neutral,Predictable Plot,0.4081626584661723,Neutral,False
+A clever and witty film that will have you laughing out loud.,Positive,Witty Film,0.42944777390350536,Neutral,True
+The acting was superb and the cinematography was breathtaking. Highly recommended!,Positive,Breathtaking,0.48995132661797985,Positive,False
+A visual masterpiece with a compelling story. The acting is superb!,Positive,Horizon's Fall,0.4021154144055296,Positive,False
+Utterly predictable and devoid of any originality. A waste of time.,Negative,Echo Chamber,0.4419856061806481,Negative,False
+"A decent movie to pass the time. Nothing special, but not terrible either.",Neutral,Flicker and Fade,0.35979475684844764,Neutral,False
+The plot was convoluted and the characters were underdeveloped. Avoid at all costs.,Negative,Crimson Tidepool,0.5171244096342378,Negative,False
+An instant classic! The director's vision is beautifully realized.,Positive,Starlight Serenade,0.39079980635319583,Neutral,True
+The soundtrack alone is worth the price of admission. A must-see!,Positive,Electric Dreams,0.4235370990501525,Negative,True
+"I laughed, I cried, I cheered. A truly unforgettable cinematic experience.",Positive,Whispers of the Wind,0.356621623496297,Neutral,True
+The special effects are groundbreaking. Prepare to be amazed.,Positive,Quantum Leap,0.37601930232966385,Neutral,True
+A thought-provoking and emotionally resonant film. Highly recommended.,Positive,The Silent Echo,0.5524015389583432,Positive,False
+This movie exceeded all expectations. The perfect blend of action and heart.,Positive,Ironclad Hearts,0.39443036028481476,Neutral,True
+The plot moved at a snail's pace and the dialogue was atrocious. Avoid this mess.,Negative,The Obsidian Mirror,0.487432409017002,Negative,False
+I found myself checking my watch every five minutes. Incredibly boring.,Negative,The Empty Canvas,0.464386543429988,Positive,True
+The acting was wooden and the script was nonsensical. A complete disaster.,Negative,The Shadow Dance,0.4346545859812093,Negative,False
+"It's a movie. It exists. You might like it, you might not.",Neutral,Grey Skies Falling,0.4417416635044082,Negative,True
+"While technically sound, it lacks any real emotional depth.",Neutral,Steel Resolve,0.43411081094479237,Positive,True
+A joyous and uplifting story that will leave you feeling hopeful.,Positive,Sunrise Tomorrow,0.5239127116681737,Neutral,True
+The story is derivative and adds nothing new to the genre.,Negative,Reckoning Day,0.39024110950679813,Neutral,True
+A complete waste of talent and resources. One of the worst films I've seen.,Negative,Emerald Inferno,0.6182540164004654,Negative,False
+"Beautifully shot and well-acted, but ultimately forgettable.",Positive,Serene Tides,0.536678714890667,Neutral,True
+I wanted to leave halfway through. This movie is terrible.,Negative,Vermillion Lies,0.36623673434488546,Neutral,True
+A stunning visual masterpiece with a compelling story. The acting is superb and the direction is flawless.,Positive,Aurora's Dawn,0.39026412608261135,Neutral,True
+"An absolute mess. The plot is convoluted, the characters are unlikeable, and the special effects are laughable.",Negative,Cosmic Calamity,0.33837659105178863,Negative,False
+"It's watchable, but not memorable. A decent distraction for a rainy afternoon.",Neutral,Echo Chamber,0.45447165392558503,Neutral,False
+A heartwarming and hilarious film that will leave you feeling good. Highly recommended for the whole family.,Positive,Sunshine After Rain,0.468079674182306,Positive,False
+"The script is atrocious, and the actors seem as bored as the audience. Avoid at all costs.",Negative,The Forgotten Prophecy,0.5493875039705248,Negative,False
+A charming and witty romantic comedy with excellent chemistry between the leads. A must-see!,Positive,Love in Paris,0.3624367337290059,Positive,False
+Completely devoid of originality or charm. A paint-by-numbers action flick that fails to excite.,Negative,Steel Titans,0.4401237235437012,Positive,True
+An instant classic! The director has masterfully woven an intricate and emotional narrative. Go see it now!,Positive,The Silent Symphony,0.39079980635319583,Neutral,True
+I was expecting more. The trailer was misleading. The movie is just ok.,Neutral,Midnight Bloom,0.358114206268406,Positive,True
+A dark and gritty thriller that will keep you on the edge of your seat. The twists and turns are unexpected and satisfying.,Positive,Shadows of Doubt,0.39079980635319583,Neutral,True
+"This film is a complete waste of time and money. The story is incoherent, and the acting is atrocious.",Negative,Abyssal Depths,0.4397847104062317,Negative,False
+A delightful and enchanting fantasy adventure that will transport you to another world. The special effects are breathtaking.,Positive,Kingdom of Elves,0.37601930232966385,Neutral,True
+Don't bother. It's a tired and predictable story with nothing new to offer.,Negative,Crimson Tide 2,0.3928507420928762,Positive,True
+The movie is alright. Not great but not terrible either. I probably won't watch it again.,Neutral,The Last Stand,0.48156689092960897,Neutral,False
+An absolute triumph! A cinematic experience that will stay with you long after the credits roll.,Positive,Eternal Flame,0.4373588573974223,Positive,False
+"An exercise in boredom. Slow-paced and uneventful, with no payoff whatsoever.",Negative,The Longest Night,0.39079980635319583,Neutral,True
+A brilliant and thought-provoking documentary that sheds light on an important issue. A must-see for everyone.,Positive,Hidden Agendas,0.39079980635319583,Neutral,True
+This movie is a gem! A feel-good story with great performances and a positive message.,Positive,Second Chances,0.6172231046336017,Neutral,True
+Utterly disappointing and a complete waste of potential. The plot made no sense and the characters were bland.,Negative,Starbound,0.6518117754765291,Negative,False
+An innovative and daring film that pushes the boundaries of storytelling. A true work of art.,Positive,The Unseen World,0.42944777390350536,Neutral,True
+"A cinematic masterpiece! The acting, directing, and story were all top-notch. Highly recommended.",Positive,Stellar Odyssey,0.5006460287661194,Positive,False
+An utter waste of time and money. The plot was convoluted and the characters were unlikeable.,Negative,Crimson Tide 2,0.4102913921547871,Negative,False
+A decent film that is neither great nor terrible. It's perfectly watchable if you're bored.,Neutral,Generic Action Flick,0.46401969792462444,Neutral,False
+Spectacular visuals and a compelling narrative make this a must-see. The best movie of the year!,Positive,Celestial Dreams,0.3878856834761085,Neutral,True
+The dialogue was atrocious and the storyline made no sense. I regret watching this.,Negative,Forgotten Project,0.3920179690698946,Positive,True
+A surprisingly charming film with heartwarming performances and a clever script. I loved it!,Positive,The Kindness of Strangers,0.4120554375250169,Positive,False
+I walked out halfway through. It was that bad.,Negative,Sinking Ship,0.435307085870873,Negative,False
+An absolute delight from start to finish. Wonderfully creative and entertaining.,Positive,Whimsical Wonders,0.46837320153698175,Positive,False
+The acting was wooden and the pacing was glacial. Avoid at all costs.,Negative,Frozen Hell,0.47565386703246054,Negative,False
+A solid action movie with impressive special effects. Definitely worth seeing on the big screen.,Positive,Urban Warfare,0.42269444825525065,Neutral,True
+"Passable, but nothing special. I won't be remembering this one tomorrow.",Neutral,Bland Horizon,0.48016909218791426,Neutral,False
+The plot holes were bigger than the Grand Canyon. A truly awful film.,Negative,Abysmal Depths,0.37962615629747065,Negative,False
+A truly unforgettable experience. The story will stay with you long after the credits roll.,Positive,Echoes of the Past,0.48558534799084363,Neutral,True
+"A decent way to kill a couple of hours. Nothing groundbreaking, but not terrible either.",Neutral,Average Joe's Adventure,0.4140039421920364,Neutral,False
+Magnificent! A tour-de-force performance and breathtaking cinematography.,Positive,Peak Performance,0.40528791991031227,Positive,False
+A complete and utter disaster. I wish I could unsee it.,Negative,Meltdown,0.4917885261455072,Negative,False
+The best movie I've seen in years! A stunning achievement.,Positive,Triumph,0.37176804934088936,Neutral,True
+Don't waste your time. This movie is terrible.,Negative,The bad thing,0.48274658474088805,Positive,True
+A visually stunning film with a great soundtrack. Highly recommend!,Positive,Aurora,0.42611830360628417,Neutral,True
+Hilarious and heartwarming! A must see for the whole family!,Positive,Family Fun Time,0.3839159656388492,Neutral,True
+"A cinematic masterpiece! The acting, the story, everything was perfect.",Positive,Stellar Voyage,0.42552903437141726,Neutral,True
+An absolute waste of time and money. The plot was nonsensical and the acting atrocious.,Negative,Forgotten Realms,0.4545355874433484,Negative,False
+"It was okay, I guess. Nothing special, but not terrible either.",Neutral,Average Joe,0.5100644170714862,Neutral,False
+The visual effects are stunning! A must-see on the big screen.,Positive,Cosmic Dawn,0.4921980153163058,Positive,False
+I fell asleep halfway through. Need I say more?,Negative,The Longest Day,0.41701925603909745,Neutral,True
+A heartwarming story with relatable characters. Highly recommended!,Positive,Second Chances,0.4824034311912428,Positive,False
+The dialogue was cheesy and the plot predictable. A major disappointment.,Negative,Cliche City,0.4000876711193858,Negative,False
+"Entertaining enough, but nothing groundbreaking.",Neutral,Popcorn Fodder,0.39079980635319583,Neutral,False
+One of the best movies I've seen in years! A true work of art.,Positive,Timeless Beauty,0.40341723480440006,Neutral,True
+The worst movie I've ever seen. Avoid at all costs!,Negative,Abysmal Failure,0.5400458381853471,Negative,False
+A fun and exciting ride from beginning to end. A definite winner!,Positive,Action Packed,0.39079980635319583,Neutral,True
+I found it to be pretty generic; likely forgettable after a week.,Neutral,The Standard,0.5263878513425502,Neutral,False
+"The acting was superb, and the story kept me on the edge of my seat.",Positive,Edge of Tomorrow,0.4538745528032095,Neutral,True
+A complete and utter mess. The script was terrible and the direction even worse.,Negative,Train Wreck,0.6050950001004972,Negative,False
+A truly unforgettable experience. I can't recommend it enough!,Positive,Memorable Moments,0.4037464212513718,Negative,True
+"It was alright, but I wouldn't watch it again.",Negative,One Time Thing,0.3644016551256656,Positive,True
+A delightful and charming movie that will leave you smiling.,Positive,Sunshine Days,0.412761428544411,Neutral,True
+The soundtrack alone is worth the price of admission. A fantastic film!,Positive,Sound and Vision,0.3657510646085911,Neutral,True
+I was captivated from the very first scene. An outstanding achievement!,Positive,Golden Era,0.41406307463908043,Positive,False
+The movie lacked any real substance or originality.,Negative,Empty Promises,0.4585936371077732,Positive,True
+A cinematic masterpiece! The acting is superb and the story is captivating. A must-see!,Positive,Stellar Voyage,0.4155112614278258,Positive,False
+Absolutely stunning visuals. The director's vision shines through in every frame. Highly recommended.,Positive,Emerald Horizons,0.48182860428554125,Positive,False
+I was on the edge of my seat the entire time. A thrilling and suspenseful ride from beginning to end.,Positive,Crimson Tidefall,0.4061021028593157,Positive,False
+A heartwarming and uplifting story. It left me feeling inspired and hopeful. A true gem.,Positive,Golden Slumbers,0.46889218199568283,Neutral,True
+The chemistry between the leads is undeniable. A charming and delightful romantic comedy.,Positive,Silver Linings Playbook 2,0.3624367337290059,Positive,False
+"An instant classic. The writing is sharp, the direction is flawless, and the performances are unforgettable.",Positive,Obsidian Dreams,0.3962557301032149,Neutral,True
+Visually breathtaking and emotionally resonant. A truly unforgettable cinematic experience.,Positive,Cobalt Echoes,0.40530010539409084,Neutral,True
+The best movie of the year! Don't miss out on this incredible cinematic achievement.,Positive,Azure Skies,0.5578551348253761,Positive,False
+"Wonderfully acted, with a unique and interesting storyline. Definitely worth watching!",Positive,Cerulean Seas,0.5727238431381656,Neutral,True
+An outstanding film that will stay with you long after the credits roll. Brilliantly executed.,Positive,Violet Fades,0.42944777390350536,Neutral,True
+The plot was convoluted and hard to follow. I left the theater confused and disappointed.,Negative,Tangled Webs,0.439900265150522,Neutral,True
+"The acting was atrocious, and the dialogue was even worse. A complete waste of time and money.",Negative,Garbage Pail Kids Reboot,0.5295771162575446,Negative,False
+"A predictable and uninspired story. I've seen it all before, and done much better.",Negative,Vanilla Extract,0.3946534131524499,Negative,False
+"The special effects were laughable, and the plot holes were glaring. Avoid at all costs.",Negative,Galactic Mess,0.5236373312362875,Negative,False
+"I couldn't even finish watching it. The pacing was glacial, and the characters were unlikeable.",Negative,Slumber Party Massacre 9,0.3737569700177965,Positive,True
+The movie tried to be too clever for its own good. The ending was nonsensical and unsatisfying.,Negative,Quantum Entanglement,0.42695817457770546,Neutral,True
+A dull and lifeless film with no redeeming qualities. I regret spending my time on this.,Negative,Beige Walls,0.3442802370343717,Positive,True
+"It was a movie. Some things happened, and then it ended. Not particularly memorable.",Neutral,Grey Matters,0.44201664767197146,Positive,True
+"It was okay. Nothing special, but not terrible either. Perfectly average.",Neutral,Tan Lines,0.44675089293013676,Neutral,False
+A forgettable film that neither impresses nor offends. Just plain mediocre.,Neutral,Ochre Dreams,0.5196170911160105,Neutral,False
+A heartwarming story with stellar performances. A must-see!,Positive,Starlight Dreams,0.445254165164485,Neutral,True
+"The plot was convoluted, and the acting was subpar. A definite skip.",Negative,Crimson Tidefall,0.4330022717257611,Neutral,True
+"Visually stunning, but the story lacks depth. It's okay.",Neutral,Echoes of the Void,0.48962614889217115,Neutral,False
+A captivating thriller that keeps you on the edge of your seat. Highly recommended!,Positive,Silent Shadows,0.5624982260311475,Positive,False
+Predictable and cliché-ridden. I've seen it all before.,Negative,Forgotten Legacy,0.37900385082705884,Negative,False
+An absolute masterpiece of storytelling and visual artistry. Oscar-worthy!,Positive,Celestial Harmony,0.421656739049181,Positive,False
+"The dialogue was cheesy, and the special effects were laughable. What a waste of time.",Negative,Galactic Gladiators,0.3454959488422295,Negative,False
+"A decent film for a rainy day. Nothing special, but watchable.",Neutral,Whispering Pines,0.4843600760935486,Neutral,False
+A beautifully crafted film with a powerful message. Prepare to be moved.,Positive,The Last Beacon,0.42944777390350536,Neutral,True
+Incredibly dull and slow-paced. I couldn't wait for it to end.,Negative,Eternal Winter,0.3559432980529752,Negative,False
+Brilliantly acted and expertly directed. This is cinema at its finest.,Positive,The Crimson Alchemist,0.3881836600117615,Positive,False
+I walked out halfway through. The worst movie I've seen in years.,Negative,Abyssal Depths,0.4681969775763356,Negative,False
+Entertaining and action-packed. Perfect for a fun night out.,Positive,Neon Knights,0.39079980635319583,Neutral,True
+"The plot holes were glaring, and the characters were unlikable. Truly bad.",Negative,Phantom Menace Returns,0.4830145816769979,Negative,False
+A charming and delightful film that will leave you smiling. Highly recommended.,Positive,The Golden Carousel,0.4801057977709035,Positive,False
+"Enjoyable enough, but ultimately forgettable. It's an average movie.",Neutral,The Silver Lining,0.4384241109340074,Neutral,False
+An instant classic. A must-see for all film lovers.,Positive,Timeless Echoes,0.42944777390350536,Neutral,True
+The story drags and never really finds its footing. Disappointing.,Negative,Sands of Oblivion,0.4197040397063869,Negative,False
+A truly exceptional film with outstanding performances and a gripping storyline. Go see it!,Positive,Emerald Tears,0.3814208805875023,Neutral,True
+"Predictable, poor acting. A complete waste of time",Negative,The Final Hour,0.5416700453876132,Negative,False
+A stunning visual masterpiece with a compelling story. The acting is superb and the soundtrack is unforgettable.,Positive,Celestial Echoes,0.37246614261643796,Positive,False
+The plot was convoluted and the characters were unlikeable. I wouldn't recommend this to anyone.,Negative,Crimson Tidefall,0.4048998378659129,Negative,False
+"It was an okay movie. Nothing special, but not terrible either. Just something to pass the time.",Neutral,Echo Chamber,0.3995937883947196,Neutral,False
+This film is a triumph! The director has crafted a truly special experience.,Positive,Forgotten Horizons,0.40893544161419043,Neutral,True
+Predictable plot twists and cheesy dialogue. A complete waste of my evening.,Negative,Grim Prospects,0.6260779532150772,Negative,False
+The performances were wooden and the script was dull. I regret watching this.,Negative,Hollow Victory,0.37112248566174777,Negative,False
+An instant classic! This movie will stay with you long after the credits roll.,Positive,Infinite Paths,0.4585936371077732,Positive,False
+I found it to be mostly forgettable. The plot meandered and lacked focus.,Neutral,Jade Lagoon,0.4234765015567123,Neutral,False
+A heartwarming and hilarious film that will leave you feeling uplifted. Highly recommended!,Positive,Kindred Spirits,0.4819217507004069,Positive,False
+"Terrible acting, nonsensical plot, and overall a dreadful experience. Avoid at all costs.",Negative,Lost Causes,0.5234668466508088,Negative,False
+"The special effects were impressive, but the story was lacking. A decent watch, but not amazing.",Neutral,Mystic Riverbend,0.43283115325208016,Neutral,False
+One of the best movies of the year! A must-see for any film lover.,Positive,Northern Lights,0.4481012943223915,Neutral,True
+I walked out halfway through. The worst movie I've seen in years.,Negative,Opposing Forces,0.4681969775763356,Negative,False
+"A beautiful and moving story about love, loss, and redemption. Prepare to be moved.",Positive,Painted Memories,0.4779369954483706,Neutral,True
+A complete disaster from start to finish. The director should be ashamed.,Negative,Questionable Intent,0.366866134236061,Negative,False
+"Absolutely phenomenal! The acting, the story, everything was perfect.",Positive,Rising Tides,0.5274161019004695,Neutral,True
+The pacing was slow and the ending was anticlimactic. A disappointing experience.,Negative,Silent Shadows,0.4136202481451028,Neutral,True
+A thrilling ride from beginning to end! I couldn't take my eyes off the screen.,Positive,Twisted Fates,0.40071232110040567,Negative,True
+Visually stunning with a powerful message. A truly unforgettable film.,Positive,Uncharted Territories,0.468569654356503,Neutral,True
+A truly remarkable film that will stay with you. The score is mesmerizing.,Positive,Whispering Pines,0.37745717842296755,Neutral,True
+"A cinematic masterpiece! The acting, directing, and story are all top-notch.",Positive,Stellaris,0.42552903437141726,Neutral,True
+Absolutely loved it! A heartwarming story with stellar performances.,Positive,Eternal Sunshine,0.4010794044678524,Neutral,True
+The best movie I've seen all year! A must-watch for everyone.,Positive,Galaxy Quest,0.3516581671909452,Neutral,True
+Hilarious and charming from beginning to end. I couldn't stop laughing.,Positive,Laugh Riot,0.40071232110040567,Negative,True
+A truly inspiring film that will stay with you long after the credits roll.,Positive,Inspire,0.42944777390350536,Neutral,True
+"An instant classic! The visuals are stunning, and the soundtrack is incredible.",Positive,Visual Echoes,0.4235370990501525,Negative,True
+Completely exceeded my expectations! A wild and unforgettable ride.,Positive,Wild Ride,0.38440806166717134,Neutral,True
+A beautiful and poignant story about love and loss. Highly recommend.,Positive,Love Lost Found,0.36498841517840336,Neutral,True
+I was on the edge of my seat the entire time! A thrilling and suspenseful film.,Positive,Edge of Seat,0.4166226523382496,Positive,False
+A thoroughly enjoyable experience. The cast has great chemistry.,Positive,Great Chemistry,0.4635429022512248,Neutral,True
+What a waste of time and money. The plot was convoluted and the acting was atrocious.,Negative,Plotless,0.4053542482169741,Negative,False
+I couldn't even finish it. It was so boring and predictable.,Negative,Boring Predictable,0.35549729334845837,Positive,True
+Don't bother watching this. You'll regret it.,Negative,Regret,0.40097389755670915,Positive,True
+"The special effects were terrible, and the story made no sense.",Negative,No Sense,0.4129850016212074,Positive,True
+Utterly disappointing. A complete mess from start to finish.,Negative,Complete Mess,0.4704849063400333,Negative,False
+I wanted my money back. One of the worst movies I've ever seen.,Negative,Money Back,0.4273585701530617,Negative,False
+"The dialogue was awful, and the characters were unlikable.",Negative,Unlikable,0.3973756044260845,Neutral,True
+"It was okay. Nothing special, but not terrible either.",Neutral,Just Okay,0.5100644170714862,Neutral,False
+"A fairly standard action movie. It's watchable, but nothing groundbreaking.",Neutral,Standard Action,0.3951241156073889,Positive,True
+"It was a movie. Not the best, not the worst. Just a movie.",Neutral,Just a Movie,0.3682007897280063,Neutral,False
+"A cinematic masterpiece! The acting, the visuals, the story - all perfect.",Positive,Celestial Echoes,0.42552903437141726,Neutral,True
+Absolutely dreadful. Waste of time and money.,Negative,Crimson Tidefall,0.3997604242297267,Negative,False
+"It was okay. Nothing special, but not terrible either.",Neutral,Echoes of the Past,0.5100644170714862,Neutral,False
+A heartwarming story that will stay with you long after the credits roll.,Positive,Whispers of Hope,0.445254165164485,Neutral,True
+The plot was convoluted and the characters were unlikeable. Avoid at all costs.,Negative,Shadows of Deceit,0.5171244096342378,Negative,False
+"A fun, action-packed adventure with plenty of thrills and laughs.",Positive,Guardians of the Galaxy 3,0.39079980635319583,Neutral,True
+I wanted to walk out halfway through. The dialogue was atrocious.,Negative,Melancholy Dreams,0.41078473539967264,Negative,False
+An instant classic. A must-see for all movie lovers.,Positive,Beneath the Surface,0.4585936371077732,Positive,False
+"Visually stunning, but the story falls flat. A beautiful disappointment.",Neutral,Aurora's Embrace,0.4990747898880251,Neutral,False
+"The acting was superb, especially the lead actress. A truly captivating performance.",Positive,The Silent Symphony,0.4159938880198102,Positive,False
+Uninspired and predictable. I've seen it all before.,Negative,Forgotten Realms,0.40268634790869684,Negative,False
+A truly uplifting and inspirational film. Prepare to be moved.,Positive,The Kindness Project,0.42944777390350536,Neutral,True
+"A decent watch for a rainy afternoon, but easily forgettable.",Neutral,The Lost City of El Dorado,0.5062956659575982,Neutral,False
+Absolutely brilliant. The director's vision is breathtaking.,Positive,The Alchemist's Secret,0.39079980635319583,Neutral,True
+Don't waste your time. The special effects are laughable and the plot makes no sense.,Negative,Galactic Warriors 7,0.47850100557267927,Positive,True
+A charming and delightful film for the whole family.,Positive,The Adventures of Pip,0.42944777390350536,Neutral,True
+One of the worst movies I've ever seen. The acting was wooden and the script was terrible.,Negative,Midnight Massacre,0.41622346633212814,Negative,False
+"The score was beautiful, but the movie itself was a mess.",Negative,The Raven's Curse,0.36259669665983846,Negative,False
+"This movie is a triumph! The writing is sharp, and the direction is masterful.",Positive,City of Dreams,0.43894620748855073,Positive,False
+A thrilling ride from beginning to end. Highly recommended!,Positive,Apex Predator,0.5624982260311475,Positive,False
+A visual masterpiece with a compelling story. Highly recommended!,Positive,Celestial Echoes,0.5565714748847833,Positive,False
+"The acting was superb, and the plot kept me guessing until the very end.",Positive,Twisted Fates,0.36548989007949423,Neutral,True
+An instant classic! The director's vision is brilliantly executed.,Positive,Crimson Tide,0.39079980635319583,Neutral,True
+Absolutely stunning cinematography and a heartwarming narrative. A must-see.,Positive,Whispers of the Wind,0.34380253299888425,Neutral,True
+A truly remarkable film that will stay with you long after the credits roll.,Positive,Silent Shadows,0.42944777390350536,Neutral,True
+"The humor is spot-on, and the characters are incredibly relatable.",Positive,Sunshine Days,0.4870604711905649,Positive,False
+This movie exceeded all expectations. A triumph of storytelling.,Positive,The Last Horizon,0.45570558984388004,Positive,False
+A brilliant score elevates an already captivating story.,Positive,Rhythm of the Night,0.4085440028491605,Neutral,True
+I was on the edge of my seat the entire time. What a ride!,Positive,Edge of Tomorrow 2,0.4061021028593157,Positive,False
+"The performances were outstanding, and the message is powerful.",Positive,Echoes of Change,0.39079980635319583,Neutral,True
+The plot was convoluted and difficult to follow. I left feeling disappointed.,Negative,Lost in Translation 2,0.4671175806555626,Neutral,True
+"The acting was wooden, and the dialogue was cringe-worthy. Avoid at all costs.",Negative,The Void,0.5100901986044369,Negative,False
+A complete waste of time and money. The special effects were laughable.,Negative,Galactic Garbage,0.454052495526248,Negative,False
+I couldn't connect with any of the characters. The story fell flat.,Negative,Empty Promises,0.40790634829811323,Neutral,True
+Predictable and uninspired. This movie offers nothing new.,Negative,Formula One,0.33877192601863465,Negative,False
+"The pacing was terrible, and the ending made no sense. A total mess.",Negative,Clockwork Chaos,0.3466285220895569,Positive,True
+There's not much to say. It's pretty bad,Negative,Plan 9 From Newark,0.39079980635319583,Neutral,True
+"It's an okay film. Nothing special, but not terrible either.",Neutral,Gray Skies,0.5158462789615949,Neutral,False
+A decent movie to pass the time. Don't expect anything groundbreaking.,Neutral,Passing Moments,0.5045850385323042,Positive,True
+"It's a forgettable film, but it has some redeeming qualities.",Neutral,Ambigous Ending,0.5058418419584643,Neutral,False
+"A cinematic masterpiece! The acting, story, and visuals blend perfectly.",Positive,Celestial Echoes,0.42812631705386206,Positive,False
+Absolutely dreadful. The plot was nonsensical and the acting amateurish.,Negative,Abysmal Depths,0.4405630664750241,Neutral,True
+A solid and entertaining movie. The plot kept me guessing.,Positive,Twisted Trails,0.3669170354662915,Negative,True
+This movie was phenomenal! The director made a film that will be watched for years.,Positive,The Phoenix Rises,0.3963698294956094,Neutral,True
+Overhyped and underwhelming. I expected so much more from this.,Negative,Crimson Peak 2,0.39079980635319583,Neutral,True
+An instant classic! The emotional depth is incredible.,Positive,Whispers of the Heart,0.43411081094479237,Positive,False
+"The special effects were great, but the story was lacking. It's watchable but not memorable.",Neutral,Digital Frontier,0.4885346400709575,Neutral,False
+I left the theater feeling empty. The characters were underdeveloped and the pacing was off.,Negative,Silent Shadows,0.4091041049517627,Neutral,True
+One of the best movies of the year. The suspense never lets up!,Positive,Edge of Tomorrow 2,0.4305694584039604,Neutral,True
+Visually stunning and emotionally resonant. A must-see!,Positive,Aurora's Light,0.45665172183845015,Neutral,True
+Predictable and boring. I wouldn't recommend wasting your time on this.,Negative,Stagnant Waters,0.3603799808378736,Negative,False
+The plot was all over the place. A waste of a good cast.,Negative,Chaotic Galaxy,0.39106450928998526,Negative,False
+A fun and lighthearted movie. Perfect for a family night.,Positive,Sunshine Adventures,0.4585936371077732,Positive,False
+"An okay movie. Had some good moments, but nothing special.",Neutral,Passing Tides,0.5273876090092363,Neutral,False
+Absolutely terrific. The acting was superb.,Positive,Starbound,0.4033153917838373,Neutral,True
+A total disaster. The worst movie I've seen in years.,Negative,Cosmic Collision,0.4522149186397947,Negative,False
+I was completely captivated from start to finish. A truly unforgettable experience.,Positive,Eternal Flame,0.44394300731118547,Positive,False
+It's a serviceable film. I like it.,Positive,Quantum Leap,0.37416786601865676,Neutral,True
+The characters are flat and the story uninspired. A forgettable experience.,Negative,Distant Horizon,0.501278649840453,Neutral,True
+It's a movie. Not much to write home about. It'll pass the time.,Neutral,Gray Skies,0.39788163022374534,Positive,True
+"A cinematic masterpiece! The acting is superb, and the story is captivating from beginning to end.",Positive,Stellar Voyage,0.4155112614278258,Positive,False
+"Absolutely dreadful. The plot holes are glaring, and the dialogue is cringeworthy.",Negative,Crimson Tidefall,0.477150761421675,Negative,False
+An enjoyable film with plenty of laughs. Highly recommended!,Positive,Laugh Riot,0.5524015389583432,Positive,False
+I walked out halfway through. Save your money and watch something else.,Negative,Abysmal Depths,0.3567806074631342,Negative,False
+"The visuals are stunning, and the soundtrack is unforgettable. A must-see!",Positive,Painted Skies,0.4235370990501525,Negative,True
+Utterly predictable and devoid of any originality. A complete waste of time.,Negative,Echo Chamber,0.5757996763225666,Negative,False
+A charming and heartwarming story that will leave you feeling uplifted.,Positive,Golden Heart,0.49306480499540317,Neutral,True
+I cannot believe this got greenlit. A total disaster from start to finish.,Negative,Project Meltdown,0.36769974851674025,Positive,True
+The kind of movie you watch once and then forget about. Passable entertainment.,Neutral,Grey Matter,0.418378824826287,Positive,True
+A thrilling and suspenseful ride that will keep you on the edge of your seat.,Positive,Edge of Tomorrow,0.39079980635319583,Neutral,True
+"Visually appealing, but the story is weak and convoluted. Falls flat.",Neutral,Prismatic Dreams,0.5019378164038301,Neutral,False
+A triumph of storytelling and filmmaking. One of the best movies of the year.,Positive,Ascension Point,0.3712218066317463,Neutral,True
+"Slow, boring, and ultimately pointless. A complete disappointment.",Negative,Static Void,0.6665369163878601,Negative,False
+"The acting is phenomenal, and the characters are richly developed. Highly recommend.",Positive,Character Study,0.3992409647769929,Neutral,True
+"A decent effort, but nothing special. It's okay.",Neutral,Mediocre Heights,0.5279838474843507,Neutral,False
+An instant classic! I'll be watching this one again and again.,Positive,Timeless Echoes,0.39079980635319583,Neutral,True
+Terribly written and directed. The worst movie I've seen in years.,Negative,Bottom Dweller,0.4079944087480787,Negative,False
+A thought-provoking and emotionally resonant film that will stay with you long after the credits roll.,Positive,Soul Searchers,0.42944777390350536,Neutral,True
+"The special effects are laughable, and the plot makes no sense. A total failure.",Negative,Digital Disaster,0.36341946220751026,Positive,True
+"What a fantastic movie! Great story, great cast, great score. Go see it!",Positive,Bright Horizons,0.5419257078418138,Neutral,True
